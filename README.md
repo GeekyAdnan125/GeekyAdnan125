@@ -21,22 +21,6 @@ Naive Bayes, SVM | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
-## 🚀 Projects
-
-### 💬 Realtime Chat Application
-- MERN Stack + Socket.IO (Realtime Messaging)  
-🔗 Frontend: https://github.com/GeekyAdnan125/chat-web-frontend  
-🔗 Backend: https://github.com/GeekyAdnan125/chat-web-backend-
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekyAdnan125&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyAdnan125&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect
 
 - 📧 Email: adnanalam6414@gmail.com  
